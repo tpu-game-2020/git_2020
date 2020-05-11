@@ -1,6 +1,6 @@
 # Gitの練習
 
-ここは、「feature/A」ブランチです。
+ここは、「feature/A」と「feature/B」ブランチのmerge後の結果です。。
 
 ## 課題
 1. 本リポジトリをforkしてください
