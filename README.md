@@ -1,7 +1,6 @@
 # Gitの練習
 
-ここは、「feature/A」ブランチです。
-
+ここは、「feature/A」ブランチと「feature/B」ブランチのマージ後の結果です。
 ## 課題
 1. 本リポジトリをforkしてください
 2. 「feature/A」と「feature/B」ブランチをマージしてください。
