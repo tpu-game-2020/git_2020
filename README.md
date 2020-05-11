@@ -1,6 +1,6 @@
 # Gitの練習
 
-feature/A　と feature/B をマージしました。
+feature/A と feature/B をマージしました。
 
 ## 課題
 1. 本リポジトリをforkしてください
